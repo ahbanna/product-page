@@ -10,3 +10,11 @@ li {
   list-style: none;
   transition: 0.3s;
 }
+h4 {
+  color: #111;
+  font-size: 18px !important;
+  font-weight: 700;
+}
+p {
+  color: #111;
+}

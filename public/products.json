@@ -1,0 +1,98 @@
+[
+  {
+    "id": "64209700f1e3baa7e1eff76f",
+    "title": "Men's Classic Shirt",
+    "price": 39.99,
+    "image": "https://demo74leotheme.b-cdn.net/prestashop/leo_ygobig_demo/33-home_default/hummingbird-printed-t-shirt.jpg",
+    "color": ["Yellow", "Pink", "Blue"],
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "64209700f1e3baa7e1eff770",
+    "title": "Women's Casual Dress",
+    "price": 49.99,
+    "image": "https://demo74leotheme.b-cdn.net/prestashop/leo_ygobig_demo/34-home_default/brown-bear-printed-sweater.jpg",
+    "color": ["Yellow", "Pink", "Blue"],
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "64209700f1e3baa7e1eff771",
+    "title": "Kids' Graphic T-Shirt",
+    "price": 24.99,
+    "image": "https://demo74leotheme.b-cdn.net/prestashop/leo_ygobig_demo/35-home_default/the-best-is-yet-to-come-framed-poster.jpg",
+    "color": ["Yellow", "Pink", "Blue"],
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "64209700f1e3baa7e1eff772",
+    "title": "Leather Shoulder Bag",
+    "price": 79.99,
+    "image": "https://demo74leotheme.b-cdn.net/prestashop/leo_ygobig_demo/37-home_default/the-adventure-begins-framed-poster.jpg",
+    "color": ["Brown", "Black", "Tan"],
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "64209700f1e3baa7e1eff773",
+    "title": "Silver Pendant Necklace",
+    "price": 59.99,
+    "image": "https://demo74leotheme.b-cdn.net/prestashop/leo_ygobig_demo/35-home_default/the-best-is-yet-to-come-framed-poster.jpg",
+    "color": ["Silver"],
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "64209700f1e3baa7e1eff774",
+    "title": "Luxury Foundation Set",
+    "price": 34.99,
+    "image": "https://demo74leotheme.b-cdn.net/prestashop/leo_ygobig_demo/35-home_default/the-best-is-yet-to-come-framed-poster.jpg",
+    "color": ["Fair", "Medium", "Dark"],
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "64209700f1e3baa7e1eff775",
+    "title": "Men's Slim-Fit Jeans",
+    "price": 44.99,
+    "image": "https://demo74leotheme.b-cdn.net/prestashop/leo_ygobig_demo/35-home_default/the-best-is-yet-to-come-framed-poster.jpg",
+    "color": ["Black", "Blue", "Grey"],
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "64209700f1e3baa7e1eff776",
+    "title": "Women's High Heels",
+    "price": 59.99,
+    "image": "https://demo74leotheme.b-cdn.net/prestashop/leo_ygobig_demo/35-home_default/the-best-is-yet-to-come-framed-poster.jpg",
+    "color": ["Red", "Black", "Beige"],
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "64209700f1e3baa7e1eff777",
+    "title": "Kids' Hooded Jacket",
+    "price": 39.99,
+    "image": "https://demo74leotheme.b-cdn.net/prestashop/leo_ygobig_demo/35-home_default/the-best-is-yet-to-come-framed-poster.jpg",
+    "color": ["Pink", "Blue", "Green"],
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "64209700f1e3baa7e1eff778",
+    "title": "Canvas Backpack",
+    "price": 29.99,
+    "image": "https://demo74leotheme.b-cdn.net/prestashop/leo_ygobig_demo/35-home_default/the-best-is-yet-to-come-framed-poster.jpg",
+    "color": ["Grey", "Navy", "Black"],
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "64209700f1e3baa7e1eff779",
+    "title": "Pearl Drop Earrings",
+    "price": 19.99,
+    "image": "https://demo74leotheme.b-cdn.net/prestashop/leo_ygobig_demo/35-home_default/the-best-is-yet-to-come-framed-poster.jpg",
+    "color": ["White"],
+    "size": ["S", "M", "L"]
+  },
+  {
+    "id": "64209700f1e3baa7e1eff780",
+    "title": "Gentleman's Grooming Kit",
+    "price": 49.99,
+    "image": "https://demo74leotheme.b-cdn.net/prestashop/leo_ygobig_demo/35-home_default/the-best-is-yet-to-come-framed-poster.jpg",
+    "color": ["Brown", "Black"],
+    "size": ["S", "M", "L", "XL"]
+  }
+]

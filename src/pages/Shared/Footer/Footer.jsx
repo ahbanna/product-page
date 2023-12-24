@@ -46,7 +46,7 @@ const Footer = () => {
             </ul>
           </div>
           <div className="footer-subscribe">
-            <h4 className="footer-title">get news and offer</h4>
+            <h4 className="footer-title">Get news and offer</h4>
             <p className="footer-text">
               Subscrible & get <span>10%</span> discount. Get E-mail updates
               about our latest shop and <span>special offers</span>.
@@ -54,7 +54,7 @@ const Footer = () => {
             <Newsletter></Newsletter>
           </div>
           <div className="footer-contact">
-            <h4 className="footer-title">contact us</h4>
+            <h4 className="footer-title">Contact us</h4>
             <ContactInfo></ContactInfo>
           </div>
         </div>
