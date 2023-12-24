@@ -1,0 +1,59 @@
+.justify-content-center.navbar-nav a.active {
+  color: #ffb500;
+}
+.header-area {
+  background: #ae1c9a;
+  /* position: absolute;
+  z-index: 3;
+  left: 0;
+  right: 0; */
+}
+.login-btn {
+  padding: 10px 80px;
+  text-align: center;
+  border-radius: 50px;
+  display: inline-block;
+  background: #ffbb38;
+  font-weight: 500;
+  position: relative;
+  color: #ffffff;
+  font-family: "Inter", sans-serif;
+  transition: all 0.3s;
+  overflow: hidden;
+  color: #232532;
+}
+.navbar-nav a {
+  color: #fff;
+  padding: 0 10px;
+  position: relative;
+  display: inline-block;
+  transition: 0.3s;
+  text-decoration: none;
+  font-weight: 600;
+}
+.navbar-nav a::before,
+.navbar-nav a::after {
+  position: absolute;
+  content: "";
+  height: 1px;
+  width: 0%;
+  background: #ffb500;
+  bottom: 30px;
+  left: 0;
+  bottom: -5px;
+  transition: 0.5s;
+}
+.navbar-nav a::after {
+  bottom: -9px;
+  transition: 0.7s;
+}
+.navbar-nav a:hover::before,
+.navbar-nav a:hover::after {
+  width: 100%;
+}
+.navbar-toggler.collapsed {
+  background-color: #fff;
+}
+.navbar-toggler {
+  background: #fff;
+}

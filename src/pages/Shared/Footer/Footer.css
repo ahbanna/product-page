@@ -1,0 +1,101 @@
+.footer-area {
+  background-color: #021d2a;
+  padding-top: 80px;
+  background-image: url(/src/assets/footer/footer-shape.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.footer-logo {
+  margin-bottom: 8px;
+}
+.footer-content {
+  display: grid;
+  grid-template-columns: 25% 15% 35% 25%;
+  grid-gap: 20px;
+  padding: 40px 0;
+}
+.footer-title {
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+.footer-text {
+  color: #888;
+  margin-bottom: 15px;
+}
+.footer-text span {
+  color: #fff;
+  font-weight: 500;
+}
+.footer-categories li a {
+  color: #888;
+}
+.footer-categories li a:hover {
+  color: #fff;
+}
+.footer-bottom {
+  display: flex;
+  justify-content: space-between;
+  border-top: 1px solid #888;
+  padding: 20px 0;
+}
+.footer-bottom p {
+  font-size: 14px;
+  margin-bottom: 0;
+}
+.footer-bottom ul li {
+  display: inline-block;
+  padding-right: 10px;
+  margin-right: 10px;
+  font-size: 14px;
+}
+.policy-terms li:first-child {
+  border-right: 1px solid #888;
+}
+.policy-terms li:hover {
+  color: #ffbb38;
+}
+
+/* ----------------- RESPONSIVE starts ----------- */
+/* Large device */
+@media (min-width: 992px) and (max-width: 1199px) {
+}
+/* MD device */
+@media (min-width: 768px) and (max-width: 991px) {
+  .footer-content {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+/*SM Device*/
+@media (min-width: 576px) and (max-width: 767px) {
+  .footer-content {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  .footer-bottom p {
+    text-align: center;
+  }
+  .footer-bottom {
+    flex-direction: column;
+    align-items: center;
+  }
+  .footer-bottom ul li {
+    font-size: 12px;
+  }
+}
+/* Mobile device */
+@media (max-width: 575px) {
+  .footer-content {
+    grid-template-columns: repeat(1, 1fr);
+  }
+  .footer-bottom p {
+    text-align: center;
+  }
+  .footer-bottom {
+    flex-direction: column;
+    align-items: center;
+  }
+  .footer-bottom ul li {
+    font-size: 12px;
+  }
+}

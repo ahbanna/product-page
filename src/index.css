@@ -1,0 +1,12 @@
+a {
+  text-decoration: none !important;
+  transition: 0.3s;
+}
+ul {
+  padding: 0 !important;
+  margin: 0 !important;
+}
+li {
+  list-style: none;
+  transition: 0.3s;
+}
